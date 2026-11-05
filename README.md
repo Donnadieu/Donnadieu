@@ -39,8 +39,8 @@ AI should serve everyone, not just the people at the top. The tools that used to
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Donnadieu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donnadieu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="./profile/stats.svg" alt="GitHub stats" height="165" />
+<img src="./profile/top-langs.svg" alt="Top languages" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donnadieu&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
