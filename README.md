@@ -67,13 +67,12 @@ A public-record explorer for the DOJ's Epstein case files. 3.5M+ searchable page
 
 #### 🔨 [Forge Desktop](https://github.com/Donnadieu/forge-desktop)
 
-Turns a Linear board into merged pull requests. Point it at a project and a repo, press Start, and an AI coding agent (Claude Code, Codex or Kimi) takes each card from Todo to a reviewed pull request, waiting for your Merge.
+Your own AI software agency, running on your Mac. Hand it the work, press Start, and AI coding agents (Claude Code, Codex or Kimi) plan, build, review and test each task, then bring you a pull request ready to merge.
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
 <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" alt="Linear" />
 <img src="https://img.shields.io/badge/macOS-333333?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
 
 <sub><a href="https://github.com/Donnadieu/forge-desktop">Repo ↗</a> · <a href="https://github.com/Donnadieu/forge-desktop/releases">Releases ↗</a></sub>
