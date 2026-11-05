@@ -11,12 +11,76 @@
 
 ### 🚀 What I'm building
 
-| Project | What it does |
-|---|---|
-| **[One](https://github.com/Donnadieu/one)** | A personal AI assistant that lives on your Mac, for people who've never opened a terminal. Press one button, it talks you through setup. Works with any AI you already pay for. Always asks before anything that matters. |
-| **[NotArc](https://github.com/Donnadieu/notarc)** | Arc is shutting down — NotArc is an open-source effort to keep its way of browsing alive, written from scratch. |
-| **[Epstein File Explorer](https://github.com/Donnadieu/Epstein-File-Explorer)** | A public-record explorer for the DOJ's Epstein case files. 3.5M+ searchable pages, a people directory, and a network graph of connections. |
-| **[Continuum](https://github.com/Donnadieu/continuum)** | An AI that actually knows you. Builds an evidence-backed picture of your life, where every claim traces back to something real. |
+<table>
+<tr>
+<td>
+
+#### 🔮 [One](https://github.com/Donnadieu/one)
+
+A personal AI assistant that lives on your Mac, for people who've never opened a terminal. Press one button, it talks you through setup. Works with any AI you already pay for. Always asks before anything that matters.
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/macOS-333333?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+
+<sub><a href="https://github.com/Donnadieu/one">Repo ↗</a> · <a href="https://donnadieu.github.io/one">Website ↗</a></sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🌐 [NotArc](https://github.com/Donnadieu/notarc)
+
+Arc is shutting down — NotArc is an open-source effort to keep its way of browsing alive, written from scratch.
+
+<img src="https://img.shields.io/badge/Objective--C%2B%2B-438EFF?style=flat-square&logo=apple&logoColor=white" alt="Objective-C++" />
+<img src="https://img.shields.io/badge/Chromium%20%28CEF%29-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chromium (CEF)" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+<img src="https://img.shields.io/badge/macOS-333333?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+
+<sub><a href="https://github.com/Donnadieu/notarc">Repo ↗</a> · <a href="https://github.com/Donnadieu/notarc/releases">Releases ↗</a></sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🗂️ [Epstein File Explorer](https://github.com/Donnadieu/Epstein-File-Explorer)
+
+A public-record explorer for the DOJ's Epstein case files. 3.5M+ searchable pages, a people directory, and a network graph of connections.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
+
+<sub><a href="https://github.com/Donnadieu/Epstein-File-Explorer">Repo ↗</a> · <a href="https://epstein-file-explorer.com">Website ↗</a></sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### 🧠 [Continuum](https://github.com/Donnadieu/continuum)
+
+An AI that actually knows you. Builds an evidence-backed picture of your life, where every claim traces back to something real.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+
+<sub><a href="https://github.com/Donnadieu/continuum">Repo ↗</a></sub>
+
+</td>
+</tr>
+</table>
 
 ### 💭 What I believe
 
