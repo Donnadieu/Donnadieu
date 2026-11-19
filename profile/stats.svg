@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Omar Donnadieu&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 93, Total Commits  (last year) : 1890, Total PRs: 1079, Total Issues: 97, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 94, Total Commits  (last year) : 1895, Total PRs: 1083, Total Issues: 97, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 57.25096058561728;
+        stroke-dashoffset: 57.04448519695718;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >93</text>
+      >94</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
